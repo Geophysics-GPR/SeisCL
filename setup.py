@@ -17,5 +17,5 @@ setup(name='SeisCL',
                         'numpy',
                         'h5py',
                         'scipy',
-                        'sklearn'],
+                        'scikit-learn'],
       zip_safe=False)
